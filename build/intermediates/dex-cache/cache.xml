@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android work\MaterialDwsign\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b3ddc864f6bc109bb28af4689c56784ea73fba3">
+        <dex dex="D:\android work\MaterialDwsign\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2848db51b32d2cfbda6d7fca7fec07195000180f.jar" />
+    </item>
+
+</items>
